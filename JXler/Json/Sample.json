@@ -1,0 +1,921 @@
+﻿{
+   "Text": "abcd",
+   "String": "100",
+   "Int": 100,
+   "Float": 100.11,
+   "Bool": true,
+   "Date": "2023-01-01T12:00:00",
+   "Null": null,
+   "DataList": [
+      {
+         "min_position": 5,
+         "has_more_items": true,
+         "items_html": "Car",
+         "new_latent_count": 1,
+         "data": {
+            "length": 22,
+            "text": "value3"
+         },
+         "objArray": [
+            {
+               "class": "upper",
+               "age": 2,
+               "StringArray": [
+                  "text1",
+                  "text3"
+               ],
+               "numericalArray": [
+                  26,
+                  20
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p3",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  }
+               ]
+            },
+            {
+               "class": "upper",
+               "age": 1,
+               "StringArray": [
+                  "text7",
+                  "text1"
+               ],
+               "numericalArray": [
+                  26,
+                  33
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p4",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 2,
+               "StringArray": [
+                  "text7",
+                  "text6"
+               ],
+               "numericalArray": [
+                  33,
+                  25
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p4",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t3"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 5,
+               "StringArray": [
+                  "text3",
+                  "text6"
+               ],
+               "numericalArray": [
+                  29,
+                  25
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p3",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t3"
+                  }
+               ]
+            },
+            {
+               "class": "lower",
+               "age": 9,
+               "StringArray": [
+                  "text5",
+                  "text3"
+               ],
+               "numericalArray": [
+                  23,
+                  28
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p4",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t4"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "min_position": 8,
+         "has_more_items": true,
+         "items_html": "Bike",
+         "new_latent_count": 9,
+         "data": {
+            "length": 20,
+            "text": "value3"
+         },
+         "objArray": [
+            {
+               "class": "upper",
+               "age": 8,
+               "StringArray": [
+                  "text1",
+                  "text4"
+               ],
+               "numericalArray": [
+                  29,
+                  28
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p3",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t3"
+                  }
+               ]
+            },
+            {
+               "class": "upper",
+               "age": 7,
+               "StringArray": [
+                  "text3",
+                  "text7"
+               ],
+               "numericalArray": [
+                  23,
+                  29
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p4",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t3"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 5,
+               "StringArray": [
+                  "text7",
+                  "text7"
+               ],
+               "numericalArray": [
+                  28,
+                  29
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p4",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  }
+               ]
+            },
+            {
+               "class": "lower",
+               "age": 0,
+               "StringArray": [
+                  "text7",
+                  "text6"
+               ],
+               "numericalArray": [
+                  24,
+                  29
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 0,
+               "StringArray": [
+                  "text6",
+                  "text6"
+               ],
+               "numericalArray": [
+                  27,
+                  30
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p3",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "min_position": 7,
+         "has_more_items": true,
+         "items_html": "Bus",
+         "new_latent_count": 1,
+         "data": {
+            "length": 25,
+            "text": "value3"
+         },
+         "objArray": [
+            {
+               "class": "upper",
+               "age": 4,
+               "StringArray": [
+                  "text4",
+                  "text7"
+               ],
+               "numericalArray": [
+                  25,
+                  25
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p3",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t1"
+                  }
+               ]
+            },
+            {
+               "class": "lower",
+               "age": 8,
+               "StringArray": [
+                  "text2",
+                  "text5"
+               ],
+               "numericalArray": [
+                  30,
+                  31
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p4",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  }
+               ]
+            },
+            {
+               "class": "lower",
+               "age": 6,
+               "StringArray": [
+                  "text5",
+                  "text1"
+               ],
+               "numericalArray": [
+                  25,
+                  26
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p2",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t3"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 5,
+               "StringArray": [
+                  "text1",
+                  "text4"
+               ],
+               "numericalArray": [
+                  25,
+                  27
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p3",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 7,
+               "StringArray": [
+                  "text3",
+                  "text2"
+               ],
+               "numericalArray": [
+                  27,
+                  23
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p1",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t1"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "min_position": 6,
+         "has_more_items": false,
+         "items_html": "Bus",
+         "new_latent_count": 1,
+         "data": {
+            "length": 21,
+            "text": "value2"
+         },
+         "objArray": [
+            {
+               "class": "middle",
+               "age": 9,
+               "StringArray": [
+                  "text6",
+                  "text6"
+               ],
+               "numericalArray": [
+                  28,
+                  24
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p3",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 1,
+               "StringArray": [
+                  "text6",
+                  "text5"
+               ],
+               "numericalArray": [
+                  29,
+                  20
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t4"
+                  }
+               ]
+            },
+            {
+               "class": "upper",
+               "age": 8,
+               "StringArray": [
+                  "text4",
+                  "text1"
+               ],
+               "numericalArray": [
+                  28,
+                  20
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t3"
+                  }
+               ]
+            },
+            {
+               "class": "lower",
+               "age": 3,
+               "StringArray": [
+                  "text5",
+                  "text5"
+               ],
+               "numericalArray": [
+                  20,
+                  24
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p3",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t4"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 4,
+               "StringArray": [
+                  "text7",
+                  "text7"
+               ],
+               "numericalArray": [
+                  33,
+                  33
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p2",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t3"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "min_position": 7,
+         "has_more_items": false,
+         "items_html": "Bike",
+         "new_latent_count": 9,
+         "data": {
+            "length": 27,
+            "text": "value3"
+         },
+         "objArray": [
+            {
+               "class": "lower",
+               "age": 7,
+               "StringArray": [
+                  "text6",
+                  "text6"
+               ],
+               "numericalArray": [
+                  29,
+                  32
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p1",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t3"
+                  }
+               ]
+            },
+            {
+               "class": "lower",
+               "age": 7,
+               "StringArray": [
+                  "text4",
+                  "text5"
+               ],
+               "numericalArray": [
+                  29,
+                  24
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p1",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t4"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 8,
+               "StringArray": [
+                  "text4",
+                  "text2"
+               ],
+               "numericalArray": [
+                  28,
+                  26
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p4",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t1"
+                  }
+               ]
+            },
+            {
+               "class": "upper",
+               "age": 9,
+               "StringArray": [
+                  "text1",
+                  "text5"
+               ],
+               "numericalArray": [
+                  23,
+                  33
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p4",
+                     "type": "t1"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p4",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p3",
+                     "type": "t2"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t3"
+                  }
+               ]
+            },
+            {
+               "class": "middle",
+               "age": 3,
+               "StringArray": [
+                  "text2",
+                  "text1"
+               ],
+               "numericalArray": [
+                  26,
+                  27
+               ],
+               "objArraySub": [
+                  {
+                     "setting": "p1",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t3"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p2",
+                     "type": "t4"
+                  },
+                  {
+                     "setting": "p1",
+                     "type": "t2"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
